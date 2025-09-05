@@ -1,5 +1,9 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" height="36" />
 
+
+<img width=100% src="https://github.com/RizviBR0/RizviBR0/blob/main/assets/Large%20Sands.svg" alt="header"/>
+
+
 I'm **Sabbir Hossain Rizvi**, a passionate **CSE Student**, **Web Developer**, and **UI/UX Designer**. Crafting innovative, user-focused websites and apps since 2016!
 
 ## 

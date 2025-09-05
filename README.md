@@ -26,13 +26,9 @@ Based in **Bangladesh**, I'm currently honing my skills in computer science. My 
 - Pushed to [Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape](https://github.com/alaminsoyaib/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape) on **August 13, 2025**.
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
-
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
 

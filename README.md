@@ -25,6 +25,18 @@ Based in **Bangladesh**, I'm currently honing my skills in computer science. My 
 - Pushed to [Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape](https://github.com/alaminsoyaib/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape) on **August 18, 2025**.  
 - Pushed to [Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape](https://github.com/alaminsoyaib/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape) on **August 13, 2025**.
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ## Latest Blog Posts
 
 Currently, I do not have any blog posts. Stay tuned for updates!

@@ -1,4 +1,4 @@
-## **Hi there!** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# **Hi there!** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm **Sabbir Hossain Rizvi**, a passionate **CSE Student**, **Web Developer**, and **UI/UX Designer**. Crafting innovative, user-focused websites and apps since 2016!
 

@@ -32,10 +32,6 @@ Currently, I do not have any blog posts. Stay tuned for updates!
 ## Connect with Me
 Feel free to reach out through the following platforms:
 
-- [GitHub](https://github.com/RizviBR0)  
-- [Facebook](https://facebook.com/rizvibr0)  
-- [Instagram](https://instagram.com/rizvibr0)  
-
 ![GitHub](https://img.shields.io/badge/GitHub-RizviBR0-181717?style=flat-square&logo=github&logoColor=white)  
 ![Facebook](https://img.shields.io/badge/Facebook-rizvibr0-3b5998?style=flat-square&logo=facebook&logoColor=white)  
 ![Instagram](https://img.shields.io/badge/Instagram-rizvibr0-e1306c?style=flat-square&logo=instagram&logoColor=white)

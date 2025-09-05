@@ -18,7 +18,7 @@ I'm **Sabbir Hossain Rizvi**, a passionate **CSE Student**, **Web Developer**, a
 Based in **Bangladesh**, I'm currently honing my skills in computer science. My journey in web development and design has been driven by a love for creating seamless user experiences.
 
 ## Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,django,firebase,tailwind,webpack,git,github,mongodb,express,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,django,firebase,tailwind,webpack,git,github,mongodb,express,flutter)]
 
 ## Recent Activity
 

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="28" viewBox="0 0 80 28" role="img" aria-label="Kotlin">
+  <title>Kotlin</title>
+  <rect x=".5" y=".5" width="79" height="27" rx="5.5" fill="#172135" stroke="#35435D"/>
+  <g transform="translate(9 6) scale(.666667)" fill="#B794FF">
+    <path d="M24 24H0V0h24L12 12Z"/>
+  </g>
+  <text x="32" y="18.5" fill="#F1F5FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Kotlin</text>
+</svg>

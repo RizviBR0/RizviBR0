@@ -21,9 +21,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 scripts/update_activity.py
-      - name: Save changed cards
+      - name: Animate the contribution calendar
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/contribution-snake.gif?color_background=#0d1628&color_snake=#ac8cff&color_dots=#1d2a42,#2e4f78,#416fa6,#6199d8,#9ac8ff
+      - name: Save changed activity graphics
         run: |
-          git add assets/github-activity.svg assets/github-languages.svg
+          git add assets/github-activity.svg assets/github-languages.svg assets/contribution-snake.gif
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="96" viewBox="0 0 252 96" role="img" aria-labelledby="title description">
+  <title id="title">Cybersecurity</title>
+  <desc id="description">Network analysis, Web testing. Database access control.</desc>
+  <rect x=".5" y=".5" width="251" height="95" rx="10" fill="#111B2D" stroke="#34425B"/>
+  <rect x="13" y="12" width="25" height="25" rx="6" fill="#203047"/>
+  <g transform="translate(17.5 16.5)" fill="none" stroke="#91BBFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 1.5 14 4v3.7c0 3.6-2.5 5.8-6 7.1-3.5-1.3-6-3.5-6-7.1V4l6-2.5Z"/>
+    <path d="m5.3 8.1 1.9 1.8 3.6-4"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="46" y="30" font-size="14" font-weight="700" fill="#F1F5FF">Cybersecurity</text>
+    <text x="15" y="59" font-size="13" fill="#C5D1E5">Network analysis · Web testing</text>
+    <text x="15" y="79" font-size="13" fill="#C5D1E5">Database access control</text>
+  </g>
+</svg>

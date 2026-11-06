@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="96" viewBox="0 0 252 96" role="img" aria-labelledby="title description">
+  <title id="title">Product engineering &amp; QA</title>
+  <desc id="description">API design, Real-time systems. Native Android, Regression testing.</desc>
+  <rect x=".5" y=".5" width="251" height="95" rx="10" fill="#111B2D" stroke="#34425B"/>
+  <rect x="13" y="12" width="25" height="25" rx="6" fill="#183447"/>
+  <g transform="translate(17.5 16.5)" fill="none" stroke="#76CEEE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m8 1.5 6 3.3v6.6l-6 3.3-6-3.3V4.8L8 1.5Z"/>
+    <path d="m2.2 4.9 5.8 3.2 5.8-3.2M8 8.3v6.2"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="46" y="30" font-size="14" font-weight="700" fill="#F1F5FF">Product engineering &amp; QA</text>
+    <text x="15" y="59" font-size="13" fill="#C5D1E5">API design · Real-time systems</text>
+    <text x="15" y="79" font-size="13" fill="#C5D1E5">Native Android · Regression testing</text>
+  </g>
+</svg>

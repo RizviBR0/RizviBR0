@@ -39,6 +39,8 @@ I design and build the storefront setup, checkout, and dashboards that creators 
 [![Expo](assets/skills/expo.svg)](https://expo.dev/)
 [![Kotlin](assets/skills/kotlin.svg)](https://kotlinlang.org/)
 
+At Arohon, I build native Android modules in Kotlin for React Native apps and work on maps, route selection, and live location tracking.
+
 **Backend & databases**<br>
 [![Node.js](assets/skills/nodejs.svg)](https://nodejs.org/)
 [![Express.js](assets/skills/express.svg)](https://expressjs.com/)
@@ -47,6 +49,8 @@ I design and build the storefront setup, checkout, and dashboards that creators 
 [![Supabase](assets/skills/supabase.svg)](https://supabase.com/)
 [![Firebase](assets/skills/firebase.svg)](https://firebase.google.com/)
 
+In Woff Space, I use Postgres change events to keep shared rooms in sync and database transactions to handle simultaneous note saves. [Room synchronization](https://github.com/RizviBR0/Woff/blob/0761433b7fc9137ebf7f614c199a18dad70005d5/lib/hooks/use-space-realtime.ts) · [Transactional note saves](https://github.com/RizviBR0/Woff/blob/0761433b7fc9137ebf7f614c199a18dad70005d5/supabase/migrations/20260930174941_transactional_note_save.sql)
+
 **Design & publishing**<br>
 [![Figma](assets/skills/figma.svg)](https://www.figma.com/)
 [![Adobe XD](assets/skills/adobe-xd.svg)](https://helpx.adobe.com/xd/desktop.html)
@@ -54,12 +58,11 @@ I design and build the storefront setup, checkout, and dashboards that creators 
 [![Framer](assets/skills/framer.svg)](https://www.framer.com/)
 [![WordPress](assets/skills/wordpress.svg)](https://wordpress.org/)
 
+I use AI to explore layouts and turn briefs into user flows, wireframes, and interactive prototypes. I write and test copy for onboarding, errors, and empty states, and use generative tools to create and edit images, illustrations, and video.
+
 **Version control**<br>
 [![Git](assets/skills/git.svg)](https://git-scm.com/)
 [![GitHub](assets/skills/github.svg)](https://github.com/)
-
-**Product engineering** · Software architecture, technical leadership, API design, authentication, and third-party integrations.<br>
-**UI/UX & QA** · User flows, wireframes, interactive prototypes, usability checks, and exploratory, UI, and functional testing.
 
 <details open>
 <summary>More languages and tools I’ve worked with</summary>
@@ -74,6 +77,24 @@ I design and build the storefront setup, checkout, and dashboards that creators 
 | Development tools | Docker, Linux, Postman |
 
 </details>
+
+### Product engineering & QA
+
+- **Architecture & delivery** · Software architecture, technical leadership, API design, authentication, and third-party integrations.
+- **AI-assisted development** · I use Codex and other coding assistants to implement features, refactor code, and diagnose bugs from logs, stack traces, and steps to reproduce. I write repository instructions and reusable workflows for those agents.
+- **Review & testing** · I review generated code, write regression tests for edge cases, and check the result through usability, exploratory, UI, and functional testing.
+
+### AI engineering & automation
+
+- **Prompting & research** · I write reusable prompts with examples, constraints, and an expected output format. I analyze documents, spreadsheets, and user feedback, and check technical findings against primary sources.
+- **AI product features** · I integrate model APIs for chat, summarization, and structured data extraction. For search and Q&A over a product’s own documents, I use embeddings and retrieval-augmented generation (RAG).
+- **Agents & workflows** · I connect apps with scripts and automation tools so incoming requests can trigger a task and sensitive actions go to a person for approval. I build assistants that call APIs and use tools through the Model Context Protocol (MCP).
+- **Models & evaluation** · I run models locally, train and fine-tune models with PyTorch, and evaluate them on representative examples. I track failure cases, response time, and cost alongside output quality.
+
+### Cybersecurity
+
+- **Network & web security foundations** · Ethical hacking in Kali Linux labs, port and service discovery, network traffic analysis, and testing web apps for SQL injection and cross-site scripting (XSS).
+- **Data protection & access control** · I limit the private data an AI assistant can access and the actions its tools can take. In Woff Space, I use PostgreSQL row-level security to enforce room membership rules. [Room access policies](https://github.com/RizviBR0/Woff/blob/0761433b7fc9137ebf7f614c199a18dad70005d5/supabase/migrations/202607230003_optimize_rls_and_indexes.sql)
 
 ## GitHub activity
 
